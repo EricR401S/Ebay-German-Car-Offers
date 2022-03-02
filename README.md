@@ -1,0 +1,2 @@
+# Ebay-German-Car-Offers
+The [dataset](https://data.world/data-society/used-cars-data) was pulled by user "orgeleska". Said set focused on used car data from the Ebay site, targeted towards Germans. The objective is to identify the overall registration year of the cars, the time during which these cars were sold, the most frequent brands, as well as their price and mileage. Within the most frequent brands, it would be best to focus on the ones who make up the most of the used car pool.
